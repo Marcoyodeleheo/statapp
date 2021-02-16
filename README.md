@@ -1,0 +1,2 @@
+# statapp
+Static AWS Application
